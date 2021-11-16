@@ -1,4 +1,4 @@
-from PIL import Image
+#from PIL import Image
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import cv2
